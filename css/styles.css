@@ -16,8 +16,46 @@ body{
 .flash >p{
    font-size:18px;
 }
+
 .main{
     background-color: #F8F9F8;
     text-align: center;
 }
 
+.here{
+    color:orange;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.list{
+    color:orange;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.show{
+    display: none;
+}
+#listed{
+    display: none;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.cl{ 
+    padding: 10px; 
+    background-color: #1C8B70;  
+}
+.close-page{   
+        color:orange;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+
+    
+    
+    
+    
