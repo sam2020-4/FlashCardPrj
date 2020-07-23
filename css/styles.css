@@ -18,18 +18,18 @@ body{
 }
 
 .main{
-    background-color: #F8F9F8;
+    background-color:#8FDE64;
     text-align: center;
 }
 
 .here{
-    color:orange;
+    color:blue;
     text-decoration: underline;
     cursor: pointer;
 }
 
 .list{
-    color:orange;
+    color:blue;
     text-decoration: underline;
     cursor: pointer;
 }
@@ -55,6 +55,10 @@ ul{
         cursor: pointer;
     }
 
+.footer{
+    text-align: center;
+    background-color:#8FDE64;
+}
     
     
     
