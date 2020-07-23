@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+
+.flash{
+    text-align: center;
+    padding: 10px;    
+}
+
+.flash >h1{
+    color: orange;
+    text-transform: uppercase;
+}
